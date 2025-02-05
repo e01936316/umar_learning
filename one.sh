@@ -5,5 +5,5 @@ echo ".dockerignore" >> .gitignore
 git add .
 git commit -m "Initial commit"
 git branch -M dev
-git remote add origin https://github.com/Umar-DevOps-design/gitCourse.gitl
+git remote add origin https://github.com/e01936316/umar_learning.git
 git push -u origin dev

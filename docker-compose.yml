@@ -1,6 +1,6 @@
 version: '3.8'
 services:
   react-app:
-    image: your-dockerhub-username/dev:latest
+    image: humarsdevops/dev:latest
     ports:
       - "80:80"
